@@ -1,11 +1,11 @@
   
 twilio:
   send: 
-    number: "![2l/lry3RIsuCW77kD5xYvg==]"
+    number: "![***********]"
   from:
-    number: "![v4Sku28F0076AOHlniHhog==]"  
+    number: "![**************]"  
   account:
-    sid: "![H+r/tvSQQBPRw6yttGWQWMliQ32I+hjHPyMcimnI3RZK/3m5Izcgeg==]"
-    password: "![J9jQC6605IVx7Y43sK8by1zG3wIK9lvtRyaimLpMF+AsR0gMi5x2nw==]"  
+    sid: "![***********]"
+    password: "![*********]"  
 
 
